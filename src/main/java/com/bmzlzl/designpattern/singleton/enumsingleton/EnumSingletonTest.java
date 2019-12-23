@@ -1,4 +1,4 @@
-package com.bmzlzl.designpattern.enumsingleton;
+package com.bmzlzl.designpattern.singleton.enumsingleton;
 
 /**
  * 枚举方式

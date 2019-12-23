@@ -1,4 +1,4 @@
-package com.bmzlzl.designpattern.lazysingleton;
+package com.bmzlzl.designpattern.singleton.lazysingleton;
 
 /**
  * 懒汉模式

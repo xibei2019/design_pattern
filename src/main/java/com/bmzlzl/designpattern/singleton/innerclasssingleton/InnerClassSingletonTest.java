@@ -1,4 +1,4 @@
-package com.bmzlzl.designpattern.innerclasssingleton;
+package com.bmzlzl.designpattern.singleton.innerclasssingleton;
 
 /**
  * 静态内部类方式

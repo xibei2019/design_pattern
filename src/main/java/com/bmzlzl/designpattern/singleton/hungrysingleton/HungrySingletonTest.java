@@ -1,4 +1,4 @@
-package com.bmzlzl.designpattern.hungrysingleton;
+package com.bmzlzl.designpattern.singleton.hungrysingleton;
 
 
 /**
