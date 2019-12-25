@@ -4,7 +4,7 @@
 
 享元模式（Flyweight），换句话说就是共享对象，运用共享技术有效的支持大量细粒度的对象。说到享元模式，第一个想到的应该就是池技术了，String常量池、数据库连接池、缓冲池等等都是享元模式的应用，所以说享元模式是池技术的重要实现方式。
 
-![image-20191224154529914](C:\Users\hx\AppData\Roaming\Typora\typora-user-images\image-20191224154529914.png)
+![类图](../img/flyweight.png)
 
 ### 优点
 
